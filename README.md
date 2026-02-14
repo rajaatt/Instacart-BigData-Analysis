@@ -29,6 +29,15 @@ This project involves building a complete Big Data pipeline to analyze over **32
 * **Key Insight:** Discovered that **Cart Position** is the strongest predictor of a reorder (Negative Coefficient: -0.037), meaning essential items are usually added to the cart first.
 
 ## 📊 Visualizations
-*(Insert your screenshots here)*
+
+
+<img width="2012" height="800" alt="visualization-5" src="https://github.com/user-attachments/assets/5adea659-5dbb-42c1-93b9-9540ff5ef7e9" />
+<img width="2012" height="800" alt="visualization-4" src="https://github.com/user-attachments/assets/dceb1baf-c1f3-4d88-a59d-1e6d0e5c797b" />
+
+<img width="2012" height="800" alt="visualization" src="https://github.com/user-attachments/assets/e7846d00-5564-4f7b-abf7-4ba54e90e820" />
+
+<img width="2012" height="800" alt="visualization-2" src="https://github.com/user-attachments/assets/8015e197-b99c-4f1c-9e2c-a6f510447875" />
+
+
 * **Hourly Heatmap:** Shows peak traffic zones.
 * **Department Pie Chart:** Shows Produce and Dairy dominating sales.
